@@ -115,6 +115,6 @@ with open("report.txt", 'w') as file:
 
 with open("readme.md", 'w') as file:
     for record in report.items():
-        file.write(f"{record[0]} {record[1]}\n")
+        file.write(f"{record[0]} {record[1]}\n\n")
     
     file.close()
