@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-"""PyRamen Homework Starter."""
+"""PyRamen """
 
 # @TODO: Import libraries
 import csv
