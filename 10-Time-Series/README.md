@@ -1,0 +1,1 @@
+## Linear regressiona nd time series analysis of the yen
