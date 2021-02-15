@@ -2,8 +2,6 @@
 from pathlib import Path
 import csv
 
-
-
 #Open file
 relative_path=("data.csv")
 
@@ -44,15 +42,6 @@ with open(relative_path, 'r') as data:
         changepl_list.append(change_pl)
 
 print(changepl_list)
-
-
-    
-    
-
-
-
-
-
 
 avg_change=total/c
 print('\n' * 100)
