@@ -1,1 +1,1 @@
-# Machine Learning Classification Credit Risk
+# Machine Learning Classification of Credit Risk
